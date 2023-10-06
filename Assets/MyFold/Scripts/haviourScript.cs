@@ -5,6 +5,7 @@ using UnityEngine;
 public class haviourScript : MonoBehaviour
 {
 	public int x;
+	private bool a;
     // Start is called before the first frame update
     void Start()
     {
